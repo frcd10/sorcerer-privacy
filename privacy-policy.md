@@ -9,4 +9,4 @@
 We do not store payment information or use data for tracking.
 
 ## Contact
-If you have any questions, email us at: support@sorcererapp.com
+If you have any questions, email us at: support@tracksorcerer.com
