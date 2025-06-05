@@ -1,0 +1,63 @@
+Privacy Policy for Sorcerer Trading Chrome Extension
+
+Effective Date: June 5, 2025
+
+Overview
+
+Sorcerer Trading Extension ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your data when you use our Chrome Extension.
+
+Data We Collect
+
+Telegram Authentication Token: Used to authenticate your account and link it to your Telegram ID.
+
+Wallet Addresses: To manage and execute your cryptocurrency trades.
+
+Trade Information: Including trade size, trade times, and token information.
+
+Settings: Preferences and configuration details saved locally using Chrome’s storage API.
+
+We do not store payment information, passwords, or personal data unrelated to trading activities.
+
+Purpose of Data Collection
+
+We collect the above data exclusively to:
+
+Authenticate and link your Chrome extension to your Telegram account.
+
+Facilitate cryptocurrency trading via our backend (buying/selling).
+
+Provide you with accurate balance and position data.
+
+Remember your personalized settings and preferences.
+
+Data Sharing and Disclosure
+
+Your data is sent securely to our FastAPI backend infrastructure. We never share, sell, or disclose your personal or trading data to third parties, except as required by law or regulation.
+
+Security Measures
+
+We employ industry-standard security practices, including:
+
+HTTPS encryption for data transmission.
+
+Secure storage with MongoDB (encrypted at rest).
+
+Token-based authentication mechanisms with expiration policies.
+
+Data Retention and Deletion
+
+We retain your data only as long as necessary for operational purposes or as required by law. Users can request data deletion by contacting us via email at sorcerer_solana@proton.me.
+
+User Control and Choices
+
+You can revoke authentication tokens and clear stored data at any time through the extension settings or by contacting support.
+
+Changes to This Privacy Policy
+
+We may update this Privacy Policy occasionally. Any changes will be posted here with an updated revision date. We recommend periodically reviewing this page.
+
+Contact Us
+
+For questions, concerns, or data deletion requests, contact us at:
+
+Email: sorcerer_solana@proton.me
